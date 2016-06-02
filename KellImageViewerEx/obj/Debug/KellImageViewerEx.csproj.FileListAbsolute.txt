@@ -1,0 +1,13 @@
+E:\soft\KellImageViewer\ImageViewerEx\obj\Debug\KellImageViewer.ImageViewerEx.resources
+E:\soft\KellImageViewer\ImageViewerEx\obj\Debug\KellImageViewerEx.csproj.GenerateResource.Cache
+E:\soft\KellImageViewer\ImageViewerEx\bin\Debug\KellImageViewer.dll
+E:\soft\KellImageViewer\ImageViewerEx\bin\Debug\KellImageViewer.pdb
+E:\soft\KellImageViewer\ImageViewerEx\obj\Debug\KellImageViewer.dll
+E:\soft\KellImageViewer\ImageViewerEx\obj\Debug\KellImageViewer.pdb
+E:\soft\KellImageViewer\KellImageViewerEx\bin\Debug\KellImageViewer.dll
+E:\soft\KellImageViewer\KellImageViewerEx\bin\Debug\KellImageViewer.pdb
+E:\soft\KellImageViewer\KellImageViewerEx\obj\Debug\KellImageViewer.ImageViewerEx.resources
+E:\soft\KellImageViewer\KellImageViewerEx\obj\Debug\KellImageViewerEx.csproj.GenerateResource.Cache
+E:\soft\KellImageViewer\KellImageViewerEx\obj\Debug\KellImageViewer.dll
+E:\soft\KellImageViewer\KellImageViewerEx\obj\Debug\KellImageViewer.pdb
+E:\soft\KellImageViewer\KellImageViewerEx\obj\Debug\KellImageViewer.Properties.Resources.resources
